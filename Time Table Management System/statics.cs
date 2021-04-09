@@ -7,15 +7,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Bunifu.UI.WinForms.BunifuButton;
 
 namespace Time_Table_Management_System
 {
-    public partial class AddRooms : Form
+    public partial class statics : Form
     {
-        public AddRooms()
+        public statics()
         {
             InitializeComponent();
         }
+
+       
     }
 }

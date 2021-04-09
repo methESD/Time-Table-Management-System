@@ -1,7 +1,7 @@
 ﻿
 namespace Time_Table_Management_System
 {
-    partial class Form4
+    partial class statics
     {
         /// <summary>
         /// Required designer variable.
